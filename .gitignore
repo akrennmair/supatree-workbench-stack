@@ -1,3 +1,4 @@
 repos/
 .supatree/
 agents/
+go.work.sum

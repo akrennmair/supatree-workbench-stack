@@ -1,3 +1,6 @@
 members:
     supatree: git@github.com:akrennmair/supatree.git
     wb: git@github.com:akrennmair/workbench.git
+deps:
+    supatree:
+        - wb

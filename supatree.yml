@@ -1,1 +1,2 @@
-members: {}
+members:
+    wb: git@github.com:akrennmair/workbench.git

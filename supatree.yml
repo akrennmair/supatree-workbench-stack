@@ -1,5 +1,2 @@
 members:
     supatree: git@github.com:panamafrancis/supatree.git
-    wb: git@github.com:panamafrancis/workbench.git
-deps:
-    supatree: [wb]
